@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/GoogleContainerTools/container-diff v0.17.0
 	github.com/fsouza/go-dockerclient v1.8.3
-	github.com/google/go-cmp v0.5.8
+	github.com/google/go-cmp v0.5.9
 	github.com/google/go-containerregistry v0.11.0
 	github.com/opencontainers/image-spec v1.0.3-0.20220114050600-8b9d41f48198
 	github.com/pkg/errors v0.9.1
