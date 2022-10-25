@@ -10,7 +10,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.3-0.20220114050600-8b9d41f48198
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.0
-	github.com/spf13/cobra v1.5.0
+	github.com/spf13/cobra v1.6.1
 	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
 	gopkg.in/yaml.v2 v2.4.0
 )
